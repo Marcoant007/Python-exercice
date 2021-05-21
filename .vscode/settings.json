@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/marco.araujo/Área de Trabalho/Phytons/venv/bin/python3",
+    "python.formatting.provider": "autopep8",
+    
+}
