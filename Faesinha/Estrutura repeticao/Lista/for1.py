@@ -12,4 +12,10 @@ print("...........")
 for i in range(6,0,-1):
     print("Decrescente: ", i)    
 
+
+for i in range(9,0, -1):
+    print(i)
+    for i in range(7,0, -1):
+        print(i)
+
     
